@@ -1,2 +1,2 @@
 # hello-world-
-I just test Git functionality
+It's time to mix drinks & change lives
